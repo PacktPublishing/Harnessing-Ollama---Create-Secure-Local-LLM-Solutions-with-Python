@@ -1,0 +1,17 @@
+# ignore .env file
+.env
+
+# ignore the venv folder
+venv/
+
+# ignore the .vscode folder
+.vscode/
+
+# ignore the .idea folder
+.idea/
+
+#ignore the chroma_db folder
+chroma_db/
+
+# ignore the db folder
+db/
